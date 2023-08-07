@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, yo soy Agustin Rosa</h1>
-<h2 align="center">Quien soy?</h2>2>
+<h2 align="center">Quien soy?</h2>
 <h3 align="center">Soy un apasionado programador Full Stack, al cual le encanta aprender nuevas tecnologias, participar de proyectos grupales y aprender mas en el proceso</h3>
-<h2 align="center">Que hago?</h2>2>
+<h2 align="center">Que hago?</h2>
 <h3 align="center">Al dia de hoy me dedico a impleter mis conocimientos en varios proyectos que uso para desarrollar mis avilidades como programador</h3>
-<h2 align="center">MIS PROYECTOS</h2>2>
+<h2 align="center">MIS PROYECTOS</h2>
 - 🔭 Mi proyecto individual mas reciente [proyectoDogs](https://github.com/agustinrosa22/proyectoDogs.git)
 
 - 👯 Mi proyecto grupal mas reciente [CraftBeer](https://github.com/OctavioLavarello/CraftBeer.git)
